@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "Server-bot",
   "bot-account": {
-    "username": "YourBotUsername",
-    "password": "",
+    "username": "Server-bot",
+    "password": "2-352-0wjf;dw'.",
     "type": "offline"
   },
   "server": {
     "ip": "HortenseShip30.aternos.me",
     "port": 19132,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "This server is still being configurated, please expect it to go offline every once in a while!",
+        "Do you like the server?"
       ]
     },
     "chat-log": true,
